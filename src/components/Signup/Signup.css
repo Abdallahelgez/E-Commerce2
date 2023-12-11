@@ -1,0 +1,8 @@
+.form-control{
+  position: relative;
+}
+.error{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
